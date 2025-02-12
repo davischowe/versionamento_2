@@ -1,0 +1,23 @@
+{
+  "name": "versionamento_2",
+  "version": "0.0.1",
+  "description": "versionamento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davischowe/versionamento_2.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Javascript"
+  ],
+  "author": "Davi Schoenardie de Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davischowe/versionamento_2/issues"
+  },
+  "homepage": "https://github.com/davischowe/versionamento_2#readme"
+}
